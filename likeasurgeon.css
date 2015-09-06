@@ -58,8 +58,8 @@ form input {
 
 @media print {
 	blockquote {
-		font-size: 10px;
-		max-width: auto;
+		font-size: 9px;
+		max-width: 11cm;
 	}
 	section.background-desc {
 		display: none;
