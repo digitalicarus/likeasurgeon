@@ -10,3 +10,6 @@ The Alcohol and Tobacco Tax and Trade Bureau has a requirement that growlers mus
 [TBB FAQ](http://www.ttb.gov/beer/beer-faqs.shtml#b9)
 
 To save you some pain, print some labels using this "application" and "laminate" them with packing tape to avoid a hassle at the tap. This is being enforced more and more in the state of Texas.
+
+ = = = ACTION SHOT! = = =
+ ![likeasurgeon in "action"](https://pbs.twimg.com/media/COQko57UEAA4uTr.jpg:large)
